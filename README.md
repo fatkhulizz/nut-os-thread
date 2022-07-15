@@ -10,6 +10,9 @@ This program is used to control ATMega128 using Nut/OS for multithreading suppor
 * thread 3 - control led 2 and led 3 for blinking every 2.0 second alternately
 * thread 4 - control motor stepper, control led, display SHT11 sensor data using UART
 
+## Flowchart
+![Flowchart](https://github.com/fatkhulizz/nut-os-thread/raw/main/embed.png)
+
 ## Getting Started
 
 ### Dependencies
